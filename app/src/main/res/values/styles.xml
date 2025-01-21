@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--
+    <style name="FirstTextViewStyle">
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:background">@color/red</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">48dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/blue</item>
+    </style>
+-->
+</resources>
